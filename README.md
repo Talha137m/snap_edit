@@ -166,16 +166,8 @@ Happy coding! :)
 
 ## Questions?🤔
 Hit me on twitter
-[![Twitter](https://img.shields.io/badge/Twitter-%40iamutkarsht-blue.svg)](https://twitter.com/iamutkarsht)
-[![Facebook](https://img.shields.io/badge/Facebook-Utkarsh%20Tiwari-blue.svg)](https://www.facebook.com/iamutkarshtiwari)
+[![Twitter](https://img.shields.io/badge/Twitter-%40iamutkarsht-blue.svg)](https://x.com/talha137m?t=1dbr5iweJKwv0Fr73BUlrw&s=08)
 
-## How to submit a valid issue
-- **Make sure you compiled the latest version.** If it still doesn't work out, don't hesitate to open a new issue.
-- Describe the scenarios when crash happened as much as possible (pictures would be better).
-- Sharing your device type and Android OS version is very helpful.
-- Paste your XML or Java code.
-- Paste the crash log.
-- Be polite.
 
 
 ## Credits
