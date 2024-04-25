@@ -166,7 +166,7 @@ Happy coding! :)
 
 ## Questions?🤔
 Hit me on twitter
-[![Twitter](https://img.shields.io/badge/Twitter-%40iamutkarsht-blue.svg)](https://x.com/talha137m?t=1dbr5iweJKwv0Fr73BUlrw&s=08)
+[![Twitter](Twitter)](https://x.com/talha137m?t=1dbr5iweJKwv0Fr73BUlrw&s=08)
 
 
 
